@@ -1,4 +1,4 @@
-[![Docker Image CI](https://github.com/mattgalbraith/multiqc-docker-singularity/actions/workflows/docker-image.yml/badge.svg)](https://github.com/mattgalbraith/multiqc-singularity/actions/workflows/docker-image.yml)
+[![Docker Image CI](https://github.com/mattgalbraith/multiqc-docker-singularity/actions/workflows/docker-image.yml/badge.svg)](https://github.com/mattgalbraith/multiqc-docker-singularity/actions/workflows/docker-image.yml)
 
 # multiqc-docker-singularity
 
